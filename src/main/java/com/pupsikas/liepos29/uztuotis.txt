@@ -1,4 +1,4 @@
-Sukurti programa kuri priimtu 5 duomenu inputus ir juos apdorojus atiduotu reikiamus outputus.
+Sukurti programa kuri priimtu 3 duomenu inputus ir juos apdorojus atiduotu reikiamus outputus.
 
 Inputai:
 1.Islaidos uz zmoniu darba
@@ -18,3 +18,4 @@ b) Sukurti 3 metodus.
 	** Trecias metodas kuris graziai viska isspausdina formatu: 
 			*** jeigu iseita i pliusa - "Bendra pajamu suma: xxx"
 			*** jeigu iseita i minusa - "Jums si puota kainavo: xxx"
+

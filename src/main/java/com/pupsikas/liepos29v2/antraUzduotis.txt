@@ -1,1 +1,20 @@
-Tai gi kazkada kai sugalvosiu ka cia parasyt cia bus nauja uzduotis.
+Tai gi antra uzduotis:
+
+si karta jau po vestuviu sukurei versla ir tapai darbdaviu.
+tau reikia apskaiciuoti kaip sekasi tavo imonei.
+duoti duomenys:
+
+1.Darbuotoju atlyginimai ant popieriaus:
+    1300, 1500, 1800, 1543, 1983, 1723, 1234, 1753, 1120, 600, 987, 7653
+2.Imones islaidos smulkiem sudukam
+    12,93,812,3451,987,37,1,123,445,1234,111, 456,123,623,156,1234,543,123,99,12,15,23,100
+3.Imones sanaudos produktui pagaminti 
+    11,15,93,123,55,12,551,1532,33,22,11,55,66,77,8,99,442
+3.Imones iplaukos uz pardavimus
+    91234,123,5412, 123, 5123, 1235,11154, 12356, 12356,54123
+    
+    
+Tau reikia surasti:
+1.Kiek vidutiniskai i rankas gauna tavo darbuotojai. Naudoti 25% mokesciu skaiciavimams.
+2.Koks yra imones grynasis pelnas (visos iplaukos - visos sanaudos)
+3.Kiek menesiu dar reikia taip pat dirbti kad pavyktu sutaupyti 1milijona is grynojo pelno?

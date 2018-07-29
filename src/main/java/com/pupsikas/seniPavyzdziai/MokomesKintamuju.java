@@ -1,4 +1,4 @@
-package com.pupsikas;
+package com.pupsikas.seniPavyzdziai;
 
 public class MokomesKintamuju {
 

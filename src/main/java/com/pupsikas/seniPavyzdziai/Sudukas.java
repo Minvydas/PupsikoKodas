@@ -1,4 +1,4 @@
-package com.pupsikas;
+package com.pupsikas.seniPavyzdziai;
 
 import com.sun.corba.se.spi.ior.ObjectKey;
 
